@@ -1,5 +1,8 @@
+-- intended for luau (roblox lua)
+
 -- it is bad and i also handle formatting or whatever badly,,
 -- i do not recommend that you use it
+-- you also do not get access to decodemtl. so you do not get colors.
 local OBJ = {}
 function OBJ:Decode(file)
 	local Data = {}
